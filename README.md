@@ -22,11 +22,17 @@ Welcome to my space 😝
 - Cybersecurity
 - Web Development 
 
-### :purple_heart: Connect with me:
+### :technologist: Tech Communities:
+
+- A member of the Web3ForU community since 2022 where we share all kinds of knowledge
+     #### :smile_cat:Find us here:  ![githubbadge](https://img.shields.io/github/followers/baiana?style=social) <a href="https://www.linkedin.com/in/web3foru-comunidad-750934254/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Web3ForU-blue?style=flat&logo=linkedin"></a> [![Instagram Badge](https://img.shields.io/badge/-web3foru-purple?&logo=instagram&logoColor=white&link=[https://www.instagram.com/web3foru/](https://www.instagram.com/web3foru/))](https://instagram.com/web3foru)
+  
+
+### :purple_heart: You can find me in:
 <br/>
 
-<p align="left"> <a href="https://www.linkedin.com/in/valentina-muñozti/"> <img align="left" alt="Linkedin" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
-  <a href="https://x.com/VMR1010"> <img align="left" alt="Valen MR| Twitter" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cc/X_icon.svg" /> </a> <a href="https://www.instagram.com/valentina_mr10/"> <img align="left" alt="Instagram" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> </a>
+<p align="right"> <a href="https://www.linkedin.com/in/valentina-muñozti/"> <img align="left" alt="Linkedin" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
+  <a href="https://x.com/VMR1010"> <img align="left" alt="Valen MR| Twitter" width="25" src="https://upload.wikimedia.org/wikipedia/commons/c/cc/X_icon.svg" /> </a> <a href="https://www.instagram.com/valentina_mr10/"> <img align="left" alt="Instagram" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> </a>
 <br/>
 
 <br/>
