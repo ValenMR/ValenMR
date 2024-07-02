@@ -24,7 +24,7 @@ Welcome to my space 😝
 - Cybersecurity
 - Web Development 
 
-### :technologist: Tech Communities:
+### :technologist: Participating in Tech Communities:
 
 - A member of the Web3ForU community since 2022 where we share all kinds of knowledge
      #### :smile_cat:Find us here:  ![githubbadge](https://img.shields.io/github/followers/baiana?style=social) <a href="https://www.linkedin.com/in/web3foru-comunidad-750934254/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Web3ForU-blue?style=flat&logo=linkedin"></a> [![Instagram Badge](https://img.shields.io/badge/-web3foru-purple?&logo=instagram&logoColor=white&link=[https://www.instagram.com/web3foru/](https://www.instagram.com/web3foru/))](https://instagram.com/web3foru)
