@@ -17,12 +17,12 @@ Welcome to my space 😝
 
 ### :bar_chart: Working:
 
-- At [UdeA](https://www.linkedin.com/school/udea-/mycompany/) as Jefa Administrativa del Laboratorio Integrado de Sistemas
-
+- As Cybersecurity Analyst
 ### :computer: Learning:
 
 - Cybersecurity
-- Web Development 
+- Web Development
+- Pentesting 
 
 ### :technologist: Participating in Tech Communities:
 
