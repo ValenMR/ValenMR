@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Valentina MR</h1>
-<h3 align="center">An apprenticeship and enthusiast of cybersecurity in Colombia</h3>
+<h3 align="center">Cybersecurity Analyst in Colombia</h3>
 
 <img align='right' src='https://github.com/ValenMR/ValenMR/assets/79924429/9f6caba4-0173-42ab-87b7-45c33ea8d9d5' width='500"'>
 <!-- ![octocat-1-valenMR](https://github.com/ValenMR/ValenMR/assets/79924429/9f6caba4-0173-42ab-87b7-45c33ea8d9d5) -->
